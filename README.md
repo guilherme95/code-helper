@@ -4,7 +4,6 @@ Repositório criado com o objetivo de ter agrupado os principais comandos do Git
 
 ## comandos
 
----
 - **git config --global user.name 'username'** -> configura o nome de usuario global
 - **git config --global user.email 'email'** -> configura o email de usuario global
 - **git config --global color.ui auto** -> configura a coloração do terminal para o git
