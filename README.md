@@ -25,3 +25,4 @@ Repositório criado com o objetivo de ter agrupado os principais comandos do Git
 - **git remote add origin 'caminho remoto do repo'** -> configura repositório remoto no projeto inicializado localmente para devidos pushes
 - **git branch -M 'novo nome'** -> renomear uma branch
 - **git push -u origin 'branch'** -> envia para o repo remoto a branch especificada
+- **git config --global credential.helper store** -> força um 'save' das credencias do git
