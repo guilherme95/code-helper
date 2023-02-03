@@ -8,6 +8,7 @@ Repositório criado com o objetivo de ter agrupado os principais comandos do Git
 - **git config --global user.name 'username'** -> configura o nome de usuario global
 - **git config --global user.email 'email'** -> configura o email de usuario global
 - **git config --global color.ui auto** -> configura a coloração do terminal para o git
+- **git config --global credential.helper store** -> força um 'save' das credencias do git
 ---
 - **git init** -> inicializa um repositório git local
 - **rm -rf .git** -> para remover repositório git localmente
@@ -25,4 +26,4 @@ Repositório criado com o objetivo de ter agrupado os principais comandos do Git
 - **git remote add origin 'caminho remoto do repo'** -> configura repositório remoto no projeto inicializado localmente para devidos pushes
 - **git branch -M 'novo nome'** -> renomear uma branch
 - **git push -u origin 'branch'** -> envia para o repo remoto a branch especificada
-- **git config --global credential.helper store** -> força um 'save' das credencias do git
+
